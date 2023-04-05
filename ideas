@@ -17,10 +17,8 @@ A.G 03/31/2023
 #8 Create armor functions allow user to be able to equip armor which reduces the amount of damage they take
 
 #9 Create spells - fireball, heal (restores health) - would need to create mana?
-(Walker Eckhart can work on this)
 
 #10 Create health and mana bars that correlate to the % of health that each player has. It should move dynamically when health is decreased or increased.
-(Walker Eckhart can work on this)
 
 #11 Create a weapons available array of all possible weapons (not just the ones that a player has in their weapons array) + display it on the page.
 
